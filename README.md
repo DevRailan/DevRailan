@@ -9,10 +9,10 @@ Gosto de criar ótimos sites e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **Railan Mello** {
  val name = "SEU NOME COMPLETO"
- val acknowledgements = "JavaScript, HTML, CSS, HTML hubl, ECMAscript,"
+ val acknowledgements = "JavaScript, HTML, CSS, HTMLhubl, ECMAscript, PHP"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val primarySkillset = "JavaScript, HTMLhubl"
+ val languages = listOf("PHP", "JavaScript" ) 
 
 }
 ```
@@ -43,7 +43,6 @@ object **Railan Mello** {
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
@@ -51,8 +50,7 @@ object **Railan Mello** {
 #### Rede Sociais!
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+🐦 [twitter][twitter] **|**  
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
