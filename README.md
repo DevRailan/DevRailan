@@ -45,7 +45,7 @@ object **Railan Mello** {
 
 #### Rede Sociais!
 
-🏡 [website][website]<link href="https://devrailan.github.io/Site-portfolio/" **|** 
+🏡 [website][website]<link href="https://devrailan.github.io/Site-portfolio/"> **|** 
 🐦 [twitter][twitter] **|**  
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
