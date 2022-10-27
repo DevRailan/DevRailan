@@ -7,7 +7,7 @@ Gosto de criar ótimos sites e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
+object **Railan Mello** {
  val name = "SEU NOME COMPLETO"
  val acknowledgements = "ÁREA DE CONHECIMENTO"
  
