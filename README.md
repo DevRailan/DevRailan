@@ -8,7 +8,7 @@ Gosto de criar ótimos sites e ajudar outras pessoas a fazer o mesmo.
 
 ```kotlin
 object **Railan Mello** {
- val name = "SEU NOME COMPLETO"
+ val name = "Railan Mello"
  val acknowledgements = "JavaScript, HTML, CSS, HTMLhubl, ECMAscript, PHP"
  
  val primarySkillset = "JavaScript, HTMLhubl"
