@@ -11,8 +11,8 @@ object **Bem Vindos** {
  val name = "Railan Mello"
  val acknowledgements = "JavaScript, HTML, CSS, HTMLhubl, ECMAscript, PHP"
  
- val primarySkillset = "JavaScript, "
- val languages = listOf("PHP", "JavaScript" ) 
+ val primarySkillset = "JavaScript, HTML, CSS"
+ val languages = listOf("JavaScript") 
 
 }
 ```
